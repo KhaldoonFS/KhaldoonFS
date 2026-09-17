@@ -1,26 +1,25 @@
-# Khaldoon Samra
+# Hi, I'm Khaldoon
 
-**Information Systems · Data Analysis · AI & Technology**
+I'm an Information Systems professional interested in AI, technology, and data analysis. I enjoy understanding how things work, exploring new tools, and finding practical ways to solve problems.
 
-I enjoy understanding how systems work, making sense of data, and exploring how AI can be useful in everyday work.
+### My background
 
-My background spans IT advisory and audit, financial data analysis, IT support, and web development. At Grant Thornton Bahrain, I worked on control testing, evidence evaluation, and clear documentation of requirements and findings.
+My experience spans IT advisory and audit, financial data analysis, and IT support. I've worked on control testing, evidence reviews, data validation, and reporting with Excel and Power BI.
 
-### Strengths and experience
+### What interests me
 
-- **Analysis and attention to detail:** reviewing evidence, validating data, and assessing controls.
-- **Data and reporting:** Excel, Power BI, and business intelligence project work.
-- **Machine learning foundations:** project experience with regression, classification, preprocessing, and model evaluation.
-- **Communication:** clear documentation and fluency in English and Arabic.
+- Exploring AI and its everyday uses.
+- Understanding systems and making sense of data.
+- Learning new skills through hands-on practice.
 
-### Interests
+### My strengths
 
-AI applications, system quality, data analysis, and practical problem-solving. I'm curious about how technology behaves in real situations and how it can be made more reliable and useful.
+- Analytical thinking and attention to detail.
+- Reviewing evidence and checking data accuracy.
+- Organizing information and documenting findings.
 
-### Portfolio
+### What I like to do for fun
 
-[Explore my portfolio](https://khaldoonfs.github.io/khaldoon-samra-portfolio/) · [View the source](https://github.com/KhaldoonFS/khaldoon-samra-portfolio)
-
-The portfolio includes my background and fictional practice cases in controls, privacy, and analytics.
-
-[Connect on LinkedIn](https://www.linkedin.com/in/khaldoon-samra-04673a386/)
+- Playing sports.
+- Going to the gym.
+- Trying new things and learning something different.
