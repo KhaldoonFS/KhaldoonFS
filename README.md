@@ -1,6 +1,6 @@
 # Hi, I'm Khaldoon
 
-I'm an Information Systems professional interested in AI, technology, and data analysis. I enjoy understanding how things work, exploring new tools, and finding practical ways to solve problems.
+I'm an Information Systems Associate interested in AI, technology, and data analysis. I enjoy understanding how things work, exploring new tools, and finding practical ways to solve problems.
 
 ### My background
 
